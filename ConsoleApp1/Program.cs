@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Палыч лох");
+﻿Console.WriteLine("Hello, World!")
+
+    Console.WriteLine("Hello, World!")
